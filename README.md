@@ -1,5 +1,7 @@
 # Trading Bot
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=thibautquentinjacob_trading-bot&metric=alert_status)](https://sonarcloud.io/dashboard?id=thibautquentinjacob_trading-bot)
+
 ![alt](./preview.png)
 
 This project is an effort to automatize day trading using specific strategies based on technical indicators.
